@@ -1,6 +1,8 @@
 ## ng2-ion-range-slider
 [Ion Range Slider](https://github.com/IonDen/ion.rangeSlider) now optimized for easy use as an importable Angular Module and installable using npm.
 
+angular solve issue
+
 ### Demos and Sample Usage
 
 For Demos and sample usage of this package have a look at the example folder
