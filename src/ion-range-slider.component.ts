@@ -184,7 +184,7 @@ export class IonRangeSliderComponent implements OnChanges{
         callback.to_value = this.to_value;
         return callback;
     }
-}
+} 
 
 export class IonRangeSliderCallback {
         min: any;               // MIN value

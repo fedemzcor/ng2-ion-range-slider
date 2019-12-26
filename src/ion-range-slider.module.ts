@@ -5,4 +5,4 @@ import {NgModule} from "@angular/core";
     exports: [IonRangeSliderComponent],
     declarations: [IonRangeSliderComponent]
 })
-export class IonRangeSliderModule { }
+export class IonRangeSliderModule { } 
